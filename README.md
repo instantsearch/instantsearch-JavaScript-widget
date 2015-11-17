@@ -1,4 +1,4 @@
-# instantsearch.js widget using plain JavaScript
+# [instantsearch.js](https://community.algolia.com/instantsearch.js/) widget using plain JavaScript
 
 [demo]: ./demo.gif
 
