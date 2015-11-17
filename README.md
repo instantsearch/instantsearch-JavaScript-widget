@@ -4,6 +4,8 @@
 
 **Read** the code: [instantsearch-best-result.js](./instantsearch-best-result.js).
 
+**See** the demo:
+
 ![Demo of the widget][demo]
 
 Read more on how to create widgets in
